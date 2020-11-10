@@ -65,17 +65,13 @@ When a proposal is accepted by the client, it’s like an arranged marriage. The
 other until all the contracts have been written up, which are all based on complete conjecture about whether this will 
 actually be a successful relationship.
 
-What is lost in this process is the problem that actually needs to be solved for the business. The easiest solution I 
-see is for clients to become smarter and wiser about software development and understand that the inherent entropy 
-involved means that you can’t use your same judgments to evaluate software contractors as you would for other trades or 
-services.
+What is lost in this process is the problem that actually needs to be solved for the business. The easiest solution I see is for clients to become smarter and wiser about software development and understand that the inherent entropy involved means that you can’t use your same judgments to evaluate software contractors as you would for other trades or services.
 
-If clients become the smart money at the table, they can get more of what they want for less money, instead of being 
-suckered into a drawn out round of betting in which they ultimately pay more and feel swindled.
+If you're primarily driven by cutting costs, you'll actually spend more because keeping things on budget and on deadline are directly at odds with properly exploring, defining, and fixing your problem.
 
-A successful software project is one that is viewed as an exploration, rather than a building built to spec. It’s, 
-“We’re trying to get to this idea over here and we trust you as our guide, so let’s move in that direction.” Not, 
-“I know what this needs to be, build it.”
+If clients become the smart money at the table, they can get more of what they want for less money, instead of being suckered into a drawn out round of betting in which they ultimately pay more and feel swindled – which essentially is what the RFP process is.
+
+A successful software project is one that is viewed as an exploration, rather than a building built to spec. It’s, “We’re trying to get to this idea over here and we trust you as our guide, so let’s move in that direction.” Not, “I know what this needs to be, it's your job to build it.”
 
 But don’t just take my word for it. Lots of smart people have come to the same conclusion:
 
