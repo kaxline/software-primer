@@ -1,16 +1,16 @@
 # A Primer on Software Development and Its Frustrations
 
 It’s an open secret among software developers that there is some mystical entropy that infects all projects. Unlike 
-other hiring situations – like hiring a plumber to fix a leak – software has too many variables to contend with. It's 
-not pipes and fittings and building codes – it’s words and colors and interactions. It's complex systems talking to other 
+other hiring situations – like hiring a plumber to fix a leak – hiring someone to build software has too many variables to contend with. 
+
+It's not pipes and fittings and building codes – it’s words and colors and interactions. It's complex systems talking to other 
 complex systems, possibly ones with which the developer has no prior experience. All to please the moving target of 
-business needs and human desires. It’s a mix of the human, the subjective, and the objective – customer service, 
-art, and engineering – all wrapped up in one.
+business needs and human desires. It’s a mix of customer service, art, and engineering – all wrapped up in one.
 
 The job is done not when the water stops leaking, but when the client is satisfied enough with the state of the 
 open-ended project that they declare a success, or at least enough success for now.
 
-Most people who hire plumbers have tried to fix the leak themselves or have some sort of first-hand experience 
+Most people who hire plumbers have tried to fix the leak themselves or have had some sort of first-hand experience 
 with the problem in question. Very few purchasers of websites and software have attempted to do what they’re asking the 
 developer to do, and that lack of experience is a big source of suspicion and doubt. There’s no visceral way for the 
 client to evaluate a developer’s performance.
@@ -51,7 +51,7 @@ Software developers confidently give concrete estimates in order to get business
 uncertainty, so if one developer is telling you it’ll be two months and another is saying they don’t know how long it 
 will be, the second one seems unreliable and unappealing even though she is being truthful and the other one is lying.
 
-Once the developer gets her foot in the door, the project almost always goes over budget and over the deadline. While it's likely to happen, each time it does happen it's usually for unique reasons and not clearly the fault of the client or developer, although each side will blame the other. Quality developers are a necessary but not sufficient condition for success. Success depends more on the framing of the endeavor, the quality of communication, and the matching of expectations than it does the adherence to deadlines and milestones.
+Once the developer gets her foot in the door, the project almost always goes over budget and over the deadline. While it's likely to happen, each time it happens it's usually for unique reasons and not clearly the fault of the client or developer, although each side will blame the other. Quality developers are a necessary but not sufficient condition for success. Success depends more on the framing of the endeavor, the quality of communication, and the matching of expectations than it does the adherence to deadlines and milestones.
 
 The more experienced a client is, the less she demands from the developer in terms of timelines and budget estimates. The smart money has seen how the sausage is made so the it will put more weight on trust, dedication, and track record.
 
@@ -65,7 +65,7 @@ When a proposal is accepted by the client, it’s like an arranged marriage. The
 other until all the contracts have been written up, which are all based on complete conjecture about whether this will 
 actually be a successful relationship.
 
-What is lost in this process is the problem that actually needs to be solved for the business. The easiest solution I see is for clients to become smarter and wiser about software development and understand that the inherent entropy involved means that you can’t use your same judgments to evaluate software contractors as you would for other trades or services.
+What is lost in this process is the problem that actually needs to be solved for the client. To fix this, clients need to become smarter and wiser about software development and understand that the inherent entropy involved means that you can’t use your same judgments to evaluate software contractors as you would for other trades or services.
 
 If you're primarily driven by cutting costs, you'll actually spend more because keeping things on budget and on deadline are directly at odds with properly exploring, defining, and fixing your problem.
 
