@@ -45,7 +45,7 @@ project, and even if they are, to be honest, take what they say with a giant gra
 you, and they don't think they are, but chances are they're giving you a rosier picture of your problem and requirements 
 than is realistic.
 
-## Why Did This Other Developer Say He Could Do It Three Months For Half the Price?
+## Why Did This Other Developer Say They Could Do It Three Months For Half the Price?
 
 Software developers confidently give concrete estimates in order to get business. It’s hard to plan a business around 
 uncertainty, so if one developer is telling you it’ll be two months and another is saying they don’t know how long it 
