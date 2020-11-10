@@ -12,14 +12,14 @@ open-ended project that they declare a success, or at least enough success for n
 
 Most people who hire plumbers have tried to fix the leak themselves or have some sort of first-hand experience 
 with the problem in question. Very few purchasers of websites and software have attempted to do what they’re asking the 
-developer to do, and it’s a big source of suspicion and doubt. There’s no visceral way for the client to evaluate a 
-developer’s performance.
+developer to do, and that lack of experience is a big source of suspicion and doubt. There’s no visceral way for the 
+client to evaluate a developer’s performance.
 
 Another thing that might not be clear to the inexperienced: It’s impossible for the developer to account for all 
-the variables before development. There are several reasons for this. For one, the people and businesses the project is 
-supposed to serve continue to change while the development is happening. And unlike a building, the plans are 
+the variables before development. There are several reasons for this. For one, the people and business needs the project 
+is supposed to serve continue to change while the development is happening. And unlike a building, the plans are 
 'finalized' as the software is built, not before hand. It's the darkside of software's instantaneous and potentially
-limitless nature. There are no real physical restraints to rein in a project.
+limitless nature. There are no real physical constraints to rein in a project.
 
 Also, desires change not only in parallel to development, but in response it. Problems are uncovered. Problems are 
 created by accident. You might as well try to model reality itself. At the beginning of the project, the client 
@@ -45,16 +45,15 @@ project, and even if they are, to be honest, take what they say with a giant gra
 you, and they don't think they are, but chances are they're giving you a rosier picture of your problem and requirements 
 than is realistic.
 
-## Why Did This Other Developer Say They Could Do It Three Months For Half the Price?
+## Why Did This Other Developer Say They Could Do It In Three Months For Half the Price?
 
 Software developers confidently give concrete estimates in order to get business. It’s hard to plan a business around 
 uncertainty, so if one developer is telling you it’ll be two months and another is saying they don’t know how long it 
 will be, the second one seems unreliable and unappealing even though she is being truthful and the other one is lying.
 
-Once the developer gets her foot in the door, the project almost always goes over budget and over the deadline. This 
-behavior is not corrected by the market because the purchasing decision was already made. The more experienced a client 
-is, the less she demands from the developer in terms of timelines and budget estimates. The smart money has seen how the 
-sausage is made so the it will put more weight on trust, dedication, and track record.
+Once the developer gets her foot in the door, the project almost always goes over budget and over the deadline. While it's likely to happen, each time it does happen it's usually for unique reasons and not clearly the fault of the client or developer, although each side will blame the other. Quality developers are a necessary but not sufficient condition for success. Success depends more on the framing of the endeavor, the quality of communication, and the matching of expectations than it does the adherence to deadlines and milestones.
+
+The more experienced a client is, the less she demands from the developer in terms of timelines and budget estimates. The smart money has seen how the sausage is made so the it will put more weight on trust, dedication, and track record.
 
 A common scenario is this. An agency needs a website, so they put out an RFP describing what they think they need. 
 Developers all scramble to read between the lines of what the agency is saying and what their expectation of cost is. 
